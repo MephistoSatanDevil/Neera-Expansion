@@ -13,8 +13,7 @@
 </div><br>
 
 **Author:** K'aeloree  
-**Mod Website:** <a href="http://www.spellholdstudios.net/ie/neera">Spellhold Studios</a>  
-**Mod Forum:** <a href="http://www.shsforums.net/forum/636-neera-expansion-ee">IEP Expanded Banters</a>
+**Mod Forum:** <a href="http://www.shsforums.net/forum/636-neera-expansion-ee">Neera Expansion</a>
 
 ## 
 
@@ -212,7 +211,7 @@ One of the most-requested tweaks is to make Neera and Rasaad same-sex romanceabl
 
 #### Special Acknowledgements to:
 
-- <a href="http://www.spellholdstudios.net/">Spellhold Studios</a> team for hosting the mod (<a href="http://www.shsforums.net">Forums</a>).
+- <a href="https://www.shsforums.net/">Spellhold Studios</a> team for hosting the mod.
 - Austin: Russian translation and traification.
 - K4thos for providing EET compatibility.
 - Everyone else from the <a href="http://www.shsforums.net/">Spellhold Studios</a> and BG:EE forums for testing and giving feedback!.
