@@ -31,6 +31,9 @@ LANGUAGE ~Russian (Translation by Austin)~
          ~russian~
          ~neera/lang/russian/setup.tra~
 
+LANGUAGE ~Simplified Chinese~
+         ~schinese~
+         ~neera/lang/schinese/setup.tra~
 
 /* ===================== *
  *    Neera Expansion    *

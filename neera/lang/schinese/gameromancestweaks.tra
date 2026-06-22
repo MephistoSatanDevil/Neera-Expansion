@@ -1,0 +1,32 @@
+
+/* ================================= *
+ *  使涅拉可被女性角色恋爱  *
+ * ================================= */
+
+/* 译者注：目的是让涅拉无论男女主角均可恋爱
+
+@28047 来自 #28047 BG:EE 字符串引用：~You know I'm a man of the world. I'm just saying I've had better.~
+@99942 来自 flirts.tra (@42 = ~If I didn't know better, mister adventurer sir, I'd say you were flirting with me.~)
+*/
+@28047 = ~你知道我走南闯北，见多识广。我只是说我见识过更好的。~
+
+@99942 = ~如果不是我了解你，我亲爱的冒险者，我会说你在跟我调情呢。~
+
+
+/* ================================ *
+ *  使拉萨德可被男性角色恋爱  *
+ * ================================ */
+
+/* 译者注：目的是让拉萨德无论男女主角均可恋爱
+
+@30920 来自 #30920 BG:EE 字符串引用：~But you also think I'm radiantly beautiful, right?~
+@30925 来自 #30920 BG:EE 字符串引用：~But you also think I'm radiantly beautiful, right?~
+@30930 来自 #30920 BG:EE 字符串引用：~But you also think I'm radiantly beautiful, right?~
+@30935 来自 #30920 BG:EE 字符串引用：~But you also think I'm radiantly beautiful, right?~
+
+它们应该相同，但以防万一……
+*/
+@30920 = ~但你也觉得我帅得惊人，对吧？~
+@30925 = ~但你也觉得我帅得惊人，对吧？~
+@30930 = ~但你也觉得我帅得惊人，对吧？~
+@30935 = ~但你也觉得我帅得惊人，对吧？~
